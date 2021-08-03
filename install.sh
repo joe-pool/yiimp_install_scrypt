@@ -1,12 +1,12 @@
 #!/bin/bash
 ################################################################################
 # Original Author:   crombiecrunch
-# Modified by : Xavatar (https://github.com/xavatar/yiimp_install_scrypt)
-# Web: https://www.xavatar.com    
+# Modified by : joe-pool (https://github.com/joe-pool/yiimp_install_scrypt)
+# Web: https://joepool.xyz   
 #
 # Program:
 #   Install yiimp on Ubuntu 16.04/18.04 running Nginx, MariaDB, and php7.2
-#   v0.2 (update Avril, 2020)
+#   v0.2 (update July, 2021)
 # 
 ################################################################################
     
